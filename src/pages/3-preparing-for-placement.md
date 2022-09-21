@@ -160,7 +160,7 @@ The student should firstly communicate with the placement tutor and explain thei
 
 - If the placement tutor or the employer do not support termination of the existing offer then the student should honour their original acceptance of the post and continue with the placement.
 
-    **NOTE: Non-abidance of the guidance above can mean your placement will not be recogisned by the university and thus you will not be awarded your Diploma in Professional Practice**
+>⚠️ **NOTE**: Non-abidance of the guidance above can mean your placement will not be recogisned by the university and thus you will not be awarded your Diploma in Professional Practice
 
 ## No Placement Offers
 

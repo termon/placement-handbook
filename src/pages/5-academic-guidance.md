@@ -90,47 +90,47 @@ The following items should be discussed with the industrial supervisor:
 
 An academic can login to Recruit via <https://recruit.ulster.ac.uk>, click the ‘Ulster Staff and Student Log In’ link and use their normal University eCode/password to authenticate. Recruit now utilises SSO and thus if you are already authenticated via email, portal etc then you will be automatically logged in.
 
-![img](/visits/1-login.png)
+![img](/recruit/academic/1-login.png)
 
 Once the login has been successful, the academic can select either ‘Placement Visits’ or ‘Report Marking’ menu option and will be presented with a list of their allocated students.
 
-![img](/visits/2-home.png)
+![img](/recruit/academic/2-home.png)
 
 For placement visits the allocation may look as follows
 
-![img](/visits/3-allocation.png)
+![img](/recruit/academic/3-allocation.png)
 
 Selecting the Review operation for one student provides access to further details on the student and their placement.
 
-![img](/visits/4-review-student.png)
+![img](/recruit/academic/4-review-student.png)
 
 Selecting ‘Review’ provides more details on the placement, including the contact details of the students industrial supervisor
 
-![img](/visits/5-placement-details.png)
+![img](/recruit/academic/5-placement-details.png)
 
 The ‘Directions’ link provides a Google map based on the post code.
 
-![img](/visits/6-map.png)
+![img](/recruit/academic/6-map.png)
 
 The selected students ‘Health & Safety Checklist’ can be reviewed before the visit and issues addressed at the visit.
 
-![img](/visits/7-hs.png)
+![img](/recruit/academic/7-hs.png)
 
 ### Schedule Visit
 
 Agree a date/time with the student via email then on Recruit click the ‘Schedule’ operation and complete the visit schedule form with any issues for discussion and enter the agreed visit date/time.
 
-![img](/visits/8-schedule.png)
+![img](/recruit/academic/8-schedule.png)
 
 Note the visit status and visit date are not set until the visit is scheduled.
 
 On submitting the schedule an email with attached calendar event is sent to the student, the work supervisor and copied to the academic (note this is just a sample email).
 
-![img](/visits/9-schedule-email.png)
+![img](/recruit/academic/9-schedule-email.png)
 
 Once the student has uploaded their pre-visit Placement Work Summary, it is visible to the academic via the “View Submission” links. In the event you had to upload a submission on behalf of the student, you can do so via the “Upload First/Second Visit Submission” links.
 
-![img](/visits/10-view-submission.png)
+![img](/recruit/academic/10-view-submission.png)
 
 Note in example above both visits have been scheduled and students have submitted their placement work summaries.
 
@@ -138,45 +138,45 @@ Note in example above both visits have been scheduled and students have submitte
 
 Prior to completing a placement visit, the academic may review the students ‘Placement Journal’ and note any issues etc. for addressing at the visit. In the case where the student has not yet added any journal entries (as shown below), you should communicate with the student and request that they update the journal before the first visit.
 
-![img](/visits/11-view-journal.png)
+![img](/recruit/academic/11-view-journal.png)
 
 ### Student Visit Feedback
 
 Once the visit has been completed the academic will upload the Placement Visit Feedback form, providing general feedback and indicating progression on the competencies and an indicated Attainment (Pass/Fail) – this is purely formative feedback. To access the feedback option select “Feedback” link from the relevant visit.
 
-![img](/visits/12-feedback-1.png)
+![img](/recruit/academic/12-feedback-1.png)
 
 Then complete the form shown below (attach the competency feedback form)
 
-![img](/visits/12-feedback-2.png)
+![img](/recruit/academic/12-feedback-2.png)
 
 Following submission of feedback, the student receives an email so they know to review the feedback and take action where needed.
 
-![img](/visits/12-feedback-3.png)
+![img](/recruit/academic/12-feedback-3.png)
 
 ### Overall Assessment
 
 It is essential, that following the second visit, the academic visitor should record the overall result (pass/fail) for the practical element of the placement. This can be recorded via the assessment menu as shown below.
 
-![img](/visits/13-second-visit-1.png)
+![img](/recruit/academic/13-second-visit-1.png)
 
 The assessment feature has to accommodate the two University assessment regimes and in our case we will ignore the % Mark awarded by the Academic Visitor and % Mark awarded by the Industrial Supervisor elements and concentrate on the Industrial Verdict element.
 
-![img](/visits/13-second-visit-2.png)
+![img](/recruit/academic/13-second-visit-2.png)
 
 ## Final Report
 
 To access your allocated placement reports, login to [Recruit](https://recruit.ulster.ac.uk) and select Report Marking.
 
-![img](/report/1-report-marking.png)
+![img](/recruit/academic/20-report-marking.png)
 
 You will be presented with a list of students you have been allocated for the report marking process.
 
-![img](/report/2-report-list.png)
+![img](/recruit/academic/21-report-list.png)
 
 Click “View Report” to view (and download) the submitted student placement Report for each student.
 
-**Note: Only the first marker can view a students report submission. You must therefore email a copy of the report to the second marker (see marker allocation list).**
+>⚠️ **Note:** Only the first marker can view a students report submission. You must therefore email a copy of the report to the second marker.
 
 ### Report Grade Sheet
 
@@ -188,7 +188,7 @@ Both markers then agree an overall agreed grade and both write this in the relev
 
 The first marker is then responsible for uploading the feedback and adding the overall placement grade. To do this click “Assess” against the relevant student.
 
-![img](/report/3-assess-1.png)
+![img](/recruit/academic/22-assess-1.png)
 
 Complete the form below, ensuring
 
@@ -198,11 +198,11 @@ Complete the form below, ensuring
 4. Once the document has been selected click submit to complete the assessment.
 Note the document can be submitted multiple times and each submission simply overwrites the previous.
 
-![img](/report/3-assess-2.png)
+![img](/recruit/academic/22-assess-2.png)
 
 When the report is assessment is submitted the status changes to reflect the agreed assessment and the student can no longer resubmit. Feedback is visible to the student from 1st October, which allows sufficient time for marks to be processed via the August exam boards.
 
-![img](/report/3-assess-3.png)
+![img](/recruit/academic/22-assess-3.png)
 
 ### CV Review
 

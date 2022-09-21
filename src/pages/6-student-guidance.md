@@ -9,34 +9,34 @@ modified: "2022-09-21"
 
 ## Starting Placement
 
-Over the placement year you are working towards achievement of a Diploma in Professional Practice (DPP/DPP(I)). As part of your assessment you will have a number of submissions to carry out. These include:
+Over the placement year you are working towards achievement of a Diploma in Professional Practice (DPP/DPP(I)).
 
-- completion of placement details and health and safety forms
-- completion and signing of a learning agreement
-- completion and signing of an employer indemnity form
-- maintenance of a placement journal
-- completion of paperwork relating to placement visits
-- submission of a final placement report.
+As part of your assessment during the placement year, you will have a number of submissions to carry out. These include:
 
-These elements are all managed via the [Recruit](https://recruit.ulster.ac.uk) system.
+    - [x] completion of placement details and health and safety forms
+    - [x] completion and signing of a learning agreement
+    - [x] completion and signing of an employer indemnity form
+    - [x] maintenance of a placement journal
+    - [x] completion of paperwork relating to placement visits
+    - [x] submission of a final placement report.
 
-Once the placement starts the student should login to [Recruit](https://recruit.ulster.ac.uk) using your normal university credentials. Recruit is the tool you will be using to manage your placement, and submissions as outlined above.
+These elements are all managed via the university Recruit system - a tool used to manage placement activity <https://recruit.ulster.ac.uk>.
 
-![img](/student/1-login.png)
+![img](/recruit/student/1-login.png)
 
-### Placement details
+### Placement Details
 
 You need to firstly confirm details regarding your placement that will be required by your placement tutor and academic supervisor during the placement, (company details, supervisor details, contact details, title of role, start-end dates etc) and revise accordingly
 
-![img](/student/2-details.png)
+![img](/recruit/student/2-details.png)
 
 ### Health and Safety
 
-You then should complete the ‘Health & Safety’ assessment form.
+Your safety whilst on placement is of paramount importance and thus it is essential that you complete the ‘Health & Safety’ assessment form. In the case where an employer does not provide any H&S induction or training, this should be discussed with the employer and also with the academic placement visitor at the first placement visit.
 
-![img](/student/2-hs.png)
+![img](/recruit/student/2-hs.png)
 
-**NOTE: Recruit will send reminder emails to students, until these actions are completed.**
+>⚠️  **NOTE:** Recruit will send reminder emails to students, until these actions are completed.
 
 ### *Placement Learning agreement  - TBC*
 
@@ -52,9 +52,11 @@ Your employer will need to complete and sign the indemnity form (accessible via 
 
 ### Placement Downloads
 
-During the placement the student may be directed to various placement related documents. These are available in the Downloads section and examples are shown below. **Note the files available in downloads will vary from year to year and the list below is for demonstration purposes only**
+During the placement the student may be directed to various placement related documents. These are available in the Downloads section and examples are shown below. 
 
-![img](/student/3-downloads.png)
+>⚠️ **Note:** the files available in downloads will vary from year to year and the list below is for demonstration purposes only
+
+![img](/recruit/student/3-downloads.png)
 
 ### Placement Journal
 
@@ -62,17 +64,17 @@ The Placement Journal provides a record of the experiences that you have gained 
 
 To access the journal, under ‘Year Long Placements’ select ‘Submissions’, then click the ‘Placement Journal’ button.
 
-![img](/student/4-journal-1.png)
+![img](/recruit/student/4-journal-1.png)
 
 #### Journal listing
 
 Use a simple week number /date system to organise entries. Note the journal entries here are simply test data and not reflective of what a normal entry should contain. You can edit/delete a journal entry for up to 24 hours to correct mistakes. Refer to the placement handbook for guidance on journal entries.
 
-![img](/student/4-journal-2.png)
+![img](/recruit/student/4-journal-2.png)
 
 New journal entries can be added by clicking the Journal Entry button and then filling in the form shown below
 
-![img](/student/4-journal-3.png)
+![img](/recruit/student/4-journal-3.png)
 
 ## Placement Visits
 
@@ -91,7 +93,7 @@ At a visit, your academic visitor will normally:
 
 Once an academic visitor has scheduled a placement visit, the student and the work supervisor are automatically emailed (email includes a calendar ICS file attachment).
 
-![img](/student/5-visit-1.png)
+![img](/recruit/student/5-visit-1.png)
 
 ### Placement Work Summary
 
@@ -101,17 +103,17 @@ The Placement Work Summary Form template is available in the Downloads section.
 
 You can upload this document as often as required (over writing the original), up until the academic has submitted visit feedback and at which point the document can no longer be uploaded.
 
-![img](/student/5-visit-2.png)
+![img](/recruit/student/5-visit-2.png)
 
 ### Visit Feedback
 
 Once the visit has been completed the academic will upload their visit feedback and the student will receive and email alerting them to the fact that the feedback is now available.
 
-![img](/student/5-visit-3.png)
+![img](/recruit/student/5-visit-3.png)
 
 When you log in again you can no longer upload the First Visit Submission and instead can click the Visit view botton to review the feedback provided.
 
-![img](/student/5-visit-4.png)
+![img](/recruit/student/5-visit-4.png)
 
 You should reflect, in your Placement Journal, upon any feedback you have been given.
 
@@ -123,14 +125,14 @@ In semester 2 (typically around the second placement visit) students will be con
 
  To upload the report select the `Upload Placement Report` button in the Submissions Section.
 
-![img](/student/6-report-1.png)
+![img](/recruit/student/6-report-1.png)
 
 Then upload the report (in pdf format). As noted, you should not upload the report until informed by the Placement Tutor. Typically report notifications are send out around late April, with report submissions to be made by end of May.
 
-![img](/student/6-report-2.png)
+![img](/recruit/student/6-report-2.png)
 
 ### Feedback
 
 As per placement visit submissions, once the final report submission has been assessed/feedback provided, it can no longer be uploaded. Once report has been assessed the feedback is **ONLY visible in Recruit from 1st October**.
 
-![img](/student/7-feedback.png)
+![img](/recruit/student/7-feedback.png)
