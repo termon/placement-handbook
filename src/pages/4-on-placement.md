@@ -49,7 +49,7 @@ During the placement year the student will be visited twice by the academic supe
 
 The academic supervisor will email you via your university account asking for suitable dates to carry out a visit. You should liaise with your industrial supervisor and ensure that they are also available at any agreed date/time.
 
-The academic supervisor will then schedule the visit via Recruit, and you will receive an automated confirmation email with an attached calendar event. The student should then complete a placement visit summary form (found in the document section on Recruit) and upload this to the visit area on Recruit.
+The academic supervisor will then schedule the visit via [Recruit](https://recruit.ulster.ac.uk), and you will receive an automated confirmation email with an attached calendar event. The student should then complete a placement visit summary form (found in the document section on Recruit) and upload this to the visit area on Recruit.
 
 ### What Happens at a Visit?
 

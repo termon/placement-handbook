@@ -1,7 +1,7 @@
 ---
 layout: ../layouts/Layout.astro
 
-title: Academic Guidance
+title: Academic Recruit Guidance
 description: 
 author: Aiden McCaughey
 modified: "2022-09-20"
