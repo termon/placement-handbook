@@ -1,7 +1,7 @@
 ---
-layout: ../layouts/StaffLayout.astro
+layout: ../layouts/Layout.astro
 
-title: Academic Recruit Guidance
+title: Academic Placement Guidance
 description: 
 author: Aiden McCaughey
 ---
