@@ -51,7 +51,7 @@ Your employer will need to complete and sign the indemnity form (accessible via 
 
 ### Placement Downloads
 
-During the placement the student may be directed to various placement related documents. These are available in the Downloads section and examples are shown below. 
+During the placement the student may be directed to various placement related documents. These are available in the Downloads section and examples are shown below.
 
 >⚠️ **Note:** the files available in downloads will vary from year to year and the list below is for demonstration purposes only
 

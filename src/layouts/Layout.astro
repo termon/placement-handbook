@@ -97,7 +97,7 @@ const title = frontmatter ? frontmatter.title : Astro.props.title
           </div>
         </aside>
 
-        <article class="mx-auto prose dark:prose-invert prose-a:no-underline prose-h2:text-green-800 prose-h3:text-slate-800">
+        <article class="mx-auto prose prose-a:no-underline prose-h2:text-green-800 prose-h3:text-slate-800">
           <DocHeader frontmatter={frontmatter}/>
           <slot/> 
           <DocFooter frontmatter={frontmatter} version={GLOBAL.version}/>
