@@ -50,7 +50,7 @@ You should review opportunities advertised on ‘Handshake’ on a weekly basis 
 
 ### Poor Approach
 
-Decide to leave applications to a certain time of year or simply never get around to making that first application. This may be due to fear of the placement process and if you have never beein involved in an interview before, is entirely understandable. You should however address this issue by engaging fully in the placement preparation process and avail of support available to prepare you for the application and interview process.
+Decide to leave applications to a certain time of year or simply never get around to making that first application. This may be due to fear of the placement process, and if you have never been involved in an interview before, is entirely understandable. You should however address this issue by engaging fully in the placement preparation process and avail of support available to prepare you for the application and interview process.
 
 You should avoid the “scatter gun” approach to placement applications where you apply for anything advertised, without considering factors such as relevance of post to your skillset, location, salary, and any factors that would mean you would not accept the post if offered.
 
