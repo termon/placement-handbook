@@ -1,5 +1,5 @@
 ---
-layout: ../layouts/Layout.astro
+layout: ../layouts/StaffLayout.astro
 
 title: Academic Recruit Guidance
 description: 
