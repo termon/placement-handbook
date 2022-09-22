@@ -25,11 +25,11 @@ The following items should be discussed with the student.
   - Accommodation and travel to work
 
 - Both Visits
+  - Review the students placement journal before the visit and provide some constructive feedback comments on content/structure/completeness.
   - Ask the student to outline a typical day’s/week’s work and get the student to elaborate on any interesting elements of the work carried out.
   - Discuss the training received software packages used etc.
   - Look for evidence of development of any of the placement competencies (independence, flexibility, timekeeping, teamwork, interpersonal skills, self-awareness, organisation and planning, health and safety awareness, social and professional awareness, technical expertise) and probe where necessary. This is important as you will need confirm that the student has achieved all the completencies by the completion of the second visit.
   - Ask students to reflect on the skills are they developing. This is particularly important and they should be asked to record reflective elements in their Placement Journal so that they can refer to this when completing the reflection section of the final report.
-    - Review the students placement journal before the visit and provide some constructive feedback comments.
 
 ### Discuss with Supervisor
 
@@ -88,7 +88,7 @@ The following items should be discussed with the industrial supervisor:
 
 ### Using Recruit
 
-An academic can login to Recruit via <https://recruit.ulster.ac.uk>, click the ‘Ulster Staff and Student Log In’ link and use their normal University eCode/password to authenticate. Recruit now utilises SSO and thus if you are already authenticated via email, portal etc then you will be automatically logged in.
+An academic can login to Recruit via <https://recruit.ulster.ac.uk>, click the ‘Ulster Staff and Student Log In’ link and use their normal University email/password to authenticate. Recruit now utilises SSO and thus if you are already authenticated via email, portal etc then you will be automatically logged in.
 
 ![img](/recruit/academic/1-login.png)
 

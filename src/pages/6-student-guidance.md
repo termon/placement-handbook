@@ -38,7 +38,7 @@ Your safety whilst on placement is of paramount importance and thus it is essent
 
 >⚠️  **NOTE:** Recruit will send reminder emails to students, until these actions are completed.
 
-### *Placement Learning agreement  - TBC*
+### *Learning agreement - TBC*
 
 You will complete the Learning Agreement Template (accessible via placement downloads - see below) and upload to Recruit.
 
@@ -78,7 +78,9 @@ New journal entries can be added by clicking the Journal Entry button and then f
 
 ## Placement Visits
 
-You can normally expect to be visited twice during your placement. The first visit will take place around November/December and the second visit around March/April. These dates may vary slightly depending on when your placement started. **You must regularly check your University email account for communications from the placement team and your academic visitor and respond in a timely manner.**
+You can normally expect to be visited twice during your placement. The first visit will take place around November/December and the second visit around March/April. These dates may vary slightly depending on when your placement started.
+
+> **NOTE** You must regularly check your University email account for communications from the placement team and your academic visitor and respond in a timely manner.
 
 At a visit, your academic visitor will normally:
 
@@ -91,15 +93,15 @@ At a visit, your academic visitor will normally:
 
 ### Scheduled Visit
 
-Once an academic visitor has scheduled a placement visit, the student and the work supervisor are automatically emailed (email includes a calendar ICS file attachment).
+Once an academic visitor has scheduled a placement visit on Recruit, the student and the industrial supervisor are automatically emailed (email includes a calendar ICS file attachment).
 
 ![img](/recruit/student/5-visit-1.png)
 
 ### Placement Work Summary
 
-The student should then upload the Placement Work Summary Form at least 48 hours before your first placement visit. Note the option to upload the form is not available until the academic supervisor schedules the visit in Recruit. If the upload does not appear then contact your academic supervisor and ask them to schedule the visit in Recruit.
+The student should then upload the Placement Work Summary Form at least 48 hours before your first placement visit. Note the option to upload the form is not available until the academic supervisor schedules the visit **via Recruit**. If the upload does not appear then contact your academic supervisor and ask them to schedule the visit in Recruit.
 
-The Placement Work Summary Form template is available in the Downloads section.
+The Placement Work Summary Form template is available in the [downloads](/6-student-guidance/#placement-downloads) section.
 
 You can upload this document as often as required (over writing the original), up until the academic has submitted visit feedback and at which point the document can no longer be uploaded.
 
@@ -119,11 +121,11 @@ You should reflect, in your Placement Journal, upon any feedback you have been g
 
 ## Final Report
 
-In semester 2 (typically around the second placement visit) students will be contacted by email and provided with instructions regarding submission of the final placement report. A template for the report will be provided via email and/or via the Recruit ‘Downloads’ section.
+In semester 2 (typically around the second placement visit) students will be contacted by email and provided with instructions regarding submission of the final placement report. A template for the report will be provided via email and/or via the Recruit [downloads](/6-student-guidance/#placement-downloads) area.
 
 ### Upload Report
 
- To upload the report select the `Upload Placement Report` button in the Submissions Section.
+ To upload the report select the `Upload Placement Report` button in the Submissions section.
 
 ![img](/recruit/student/6-report-1.png)
 
@@ -133,6 +135,8 @@ Then upload the report (in pdf format). As noted, you should not upload the repo
 
 ### Feedback
 
-As per placement visit submissions, once the final report submission has been assessed/feedback provided, it can no longer be uploaded. Once report has been assessed the feedback is **ONLY visible in Recruit from 1st October**.
+As per placement visit submissions, once the final report submission has been assessed/feedback provided, it can no longer be uploaded.
+
+> **NOTE** Once report has been assessed the feedback is only visible in Recruit from 1st October.
 
 ![img](/recruit/student/7-feedback.png)
