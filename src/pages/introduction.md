@@ -93,3 +93,8 @@ Primarily, placements help us to provide graduates with the qualities that emplo
  4. **Courses Coordinator (Course Director)**
 
     The Courses’ Coordinator is a member of the school academic staff who manages one or more courses within the school and is someone you may receive communications from time to time regarding placement activity.
+
+ 5. **Employability & Careers**
+
+   The Employability & Careers department within the University provide students with support in developing their employability skills during their time at University. Employability staff are involved in various placement preparation activities in year 2.
+   
