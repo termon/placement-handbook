@@ -96,5 +96,4 @@ Primarily, placements help us to provide graduates with the qualities that emplo
 
  5. **Employability & Careers**
 
-   The Employability & Careers department within the University provide students with support in developing their employability skills during their time at University. Employability staff are involved in various placement preparation activities in year 2.
-   
+    The Employability & Careers department within the University provide students with support in developing their employability skills during their time at University. Employability staff are involved in various placement preparation activities in year 2.
