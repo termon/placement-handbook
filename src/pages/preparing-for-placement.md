@@ -4,7 +4,6 @@ layout: ../layouts/Layout.astro
 title: Placement Preparation
 description: Information covering pre-placement activities
 author: Aiden McCaughey
-modified: "2022-09-20"
 ---
 
 ## Introduction

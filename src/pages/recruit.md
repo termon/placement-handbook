@@ -4,7 +4,6 @@ layout: ../layouts/Layout.astro
 title: Student Recruit Guidance
 description: 
 author: Aiden McCaughey
-modified: "2022-09-21"
 ---
 
 ## Starting Placement

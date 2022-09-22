@@ -4,7 +4,6 @@ layout: ../layouts/Layout.astro
 title: On Placement
 description: Information covering onplacement activities
 author: Aiden McCaughey
-modified: "2022-09-20"
 ---
 
 ## Responsibilities

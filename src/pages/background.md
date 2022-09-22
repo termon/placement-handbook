@@ -4,7 +4,6 @@ layout: ../layouts/Layout.astro
 title: Background
 description: Intro to placement
 author: Aiden McCaughey
-modified: "2022-09-20"
 ---
 
 ## Scope
@@ -57,4 +56,3 @@ A range of staff within are involved in the delivery and management of placement
 [^1]: https://ulster.joinhandshake.co.uk/login
 [^2]: https://recruit.ulster.ac.uk
 [^3]: https://www.ulster.ac.uk/employability
-

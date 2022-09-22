@@ -1,25 +1,7 @@
----
-import Layout from '../layouts/Layout.astro';
-import Card from '../components/Card.astro';
----
+<script is:inline>
+	// Redirect your homepage to the first page of documentation.
+	// If you have a landing page, remove this script and add it here!
+	window.location.pathname = `/background`;
+</script>
 
-<Layout title="Placement Handbook">
-	<main>
-		<h1>SCEIS Placement Handbook</h1>
-		<p>
-			Check out the <code>src/pages</code> directory to get started.<br />
-			<strong>Code Challenge:</strong> Tweak the "Welcome to Astro" message above.
-		</p>
-		<p>
-			another paragraph
-		</p>
-
-		<Card title="My CARD" href="#">
-
-			<p>Card content goes here</p>
-
-		</Card>
-				
-	</main>
-</Layout>
 

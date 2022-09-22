@@ -6,16 +6,17 @@ type Props = {
         description?: string;
         author: string;
         modified: string;
-    }
-};
+    },
+    modified:string
+}
 
-const {frontmatter} = Astro.props as Props
+const {frontmatter, modified} = Astro.props as Props
 ---
 {frontmatter && 
     <div class="border-t border-slate-800">
         <div class="flex place-content-between">
             <div><span class="text-md text-green-800 pt-0">Author: </span><span class="text-sm">{frontmatter.author}</span></div>
-            <div><span class="text-md text-green-800 pt-0">Last Updated: </span><span class="text-sm">{frontmatter.modified}</span></div>
+            <div><span class="text-md text-green-800 pt-0">Last Updated: </span><span class="text-sm">{modified}</span></div>
         </div>
     </div>    
 }

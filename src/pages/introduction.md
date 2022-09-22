@@ -3,7 +3,6 @@ title: Introduction
 description: Introduction to placement
 layout: ../layouts/Layout.astro
 author: Aiden McCaughey
-modified: "2022-09-20"
 ---
 
 ## Placement Summary

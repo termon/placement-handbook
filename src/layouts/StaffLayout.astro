@@ -1,13 +1,12 @@
 ---
 import { Icon } from 'astro-icon'
 import PageElements from "../components/PageElements.astro";
-
-import type { MarkdownHeading, MarkdownLayoutProps } from "astro";
 import DocHeader from '../components/DocHeader.astro';
 import DocFooter from '../components/DocFooter.astro';
 
 const { frontmatter, headings } = Astro.props ;
 const title = frontmatter ? frontmatter.title : Astro.props.title
+const MODIFIED = import.meta.env.VERSION
 ---
 
 <!DOCTYPE html>
@@ -47,7 +46,7 @@ const title = frontmatter ? frontmatter.title : Astro.props.title
           >
             <ul class="space-y-2">
               <li>
-                <a href="/academic-guidance"
+                <a href="/recruit-academic"
                   class="flex items-center p-2 text-base font-normal text-gray-900 rounded-lg dark:text-white hover:bg-gray-100 dark:hover:bg-gray-700">
                   <Icon name="dashicons:welcome-learn-more" width="20" class="text-gray-400" />              				               
                   <span class="flex-1 ml-3 whitespace-nowrap">Academic</span>
@@ -60,7 +59,7 @@ const title = frontmatter ? frontmatter.title : Astro.props.title
         <article class="mx-auto prose dark:prose-invert prose-a:no-underline prose-h2:text-green-800 prose-h3:text-slate-800">
           <DocHeader frontmatter={frontmatter}/>
           <slot/> 
-          <DocFooter frontmatter={frontmatter}/>
+          <DocFooter frontmatter={frontmatter} modified={MODIFIED}/>
         </article>
 
         <aside class="w-64" aria-label="RightSidebar">
