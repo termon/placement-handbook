@@ -153,14 +153,14 @@ Where none of these options are available, the student will be provided with ass
 
 The University requires each employer to have a Bullying/harassment policy in place and the student should have been made aware of this policy during their induction with the employer. The student should follow the procedures in this policy in the first instance and additionally inform their academic supervisor of their circumstances. If required, the placement tutor can speak to the company supervisor to ensure that the situation is being addressed and where it is not being addressed the University reserves the right to remove the student from the placement if required.
 
-### Terminate Placement
+### Terminate a Placement
 
 A student unilaterally terminating a placement before completion of the contract, is an exceptional situation and one that is normally extremely rare.
 
-Where a student is considering leaving a placement, they **must** in the first instance discuss the issues they are having with their industrial supervisor and/or the academic supervisor. Where required the academic supervisor will discuss the issues that may have led to the request to terminate the post with the industrial supervisor and placement tutor and aim to have them resolved.
-
 When a student undertakes a placement they will have normally signed a contract stipulating amongst other things the period of employment. The contract may also have some conditions around termination of the placmement and these need to be honoured.
+
+Where a student is considering leaving a placement, they **must** in the first instance discuss the issues they are having with their industrial supervisor and/or the academic supervisor. Where required the academic supervisor will discuss the issues that may have led to the request to terminate the post with the industrial supervisor and placement tutor and aim to have them resolved.
 
 It is a requirement that a student does not withdraw from a placement, without the permission of the relevant Placement Tutor, who will have discussed the matter and had it approved by the student’s Course Director and where required, the Head of School within which their course resides.
 
-Terminating a placement can mean that the student has not met the requirements of their placement, will not be awarded the Diploma in Professional Practice DPP/DPP(I) and can at the discretion of the course committee, be required to repeat the year.
+> NOTE: Terminating a placement means that a student will not have successfuly completed their placement year. In this case they will not be awarded the Diploma in Professional Practice DPP/DPP(I) and can at the discretion of the course committee, be required to repeat the year.
