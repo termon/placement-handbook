@@ -6,6 +6,7 @@ import mdx from "@astrojs/mdx";
 
 // https://astro.build/config
 export default defineConfig({
+  
   integrations: [solidJs(), tailwind(), mdx()],
   vite: {
     ssr: {

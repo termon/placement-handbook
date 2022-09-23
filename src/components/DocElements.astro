@@ -1,5 +1,6 @@
 ---
 import type { MarkdownHeading, MarkdownLayoutProps, } from 'astro'
+import Link from './Link.astro';
 type Props = {
     frontmatter: {
         title: string;
@@ -12,15 +13,15 @@ type Props = {
 
 const { frontmatter, headings} = Astro.props as Props
 
-const headingFormat = (depth:number) => depth==2 ? `text-md text-green-900` : `text-sm` 
+const headingFormat = (depth: number) => depth == 2 ? `text-sm font-bold` : `text-sm` 
 ---
 {frontmatter && 
-    <h2 class="text-2xl mb-3 text-blue-600">Quick Links</h2>
+    <h2 class="text-md mb-3 text-blue-900 font-bold">Quick Links</h2>
     <ul class="space-y-2">   
         {headings.map(h => (
             <li>
-                <a href={`#${h.slug}`} class={`px-2 ml-${h.depth} ${headingFormat(h.depth)} font-normal text-gray-900 rounded-lg dark:text-white hover:bg-gray-100 hover:text-blue-400 dark:hover:bg-gray-700`}>
-                    {h.text}
+                <a href={`#${h.slug}`} class={`flex ml-${h.depth} ${headingFormat(h.depth)} px-2 pb-1 text-gray-900 rounded-lg hover:bg-gray-200`}>
+                    <span>{h.text}</span>
                 </a>
             </li>
         ))} 

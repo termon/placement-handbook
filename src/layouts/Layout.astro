@@ -1,10 +1,11 @@
 ---
 import { Icon } from 'astro-icon'
-import PageElements from "../components/PageElements.astro";
+import DocElements from "../components/DocElements.astro";
 import DocHeader from '../components/DocHeader.astro';
 import DocFooter from '../components/DocFooter.astro';
 import GLOBAL from '../../global.json'
 import Badge from '../components/Badge.astro';
+import Link from '../components/Link.astro';
 
 // type Props = {
 //   title: string,
@@ -37,75 +38,40 @@ const title = frontmatter ? frontmatter.title : Astro.props.title
           <h1 class="text-slate-900 ml-4 text-3xl"><a href="/">SCEIS Placement Handbook</a></h1>
         </div>
         <Badge>
-            <span class="text-gray-900">Updated</span>&nbsp;<span>{GLOBAL.modified}</span>
+            <Icon name="carbon:version" width="20" class="mr-2 text-blue-900 font-bold"/> 
+            <span class="text-gray-900">Version&nbsp;<span>{GLOBAL.version}</span></span> 
         </Badge>        
       </div>
 
       <div class="flex">
+        <!-- Left Side Bar -->
         <aside class="w-64" aria-label="LeftSidebar">
           <div class="overflow-y-auto py-4 px-3 bg-gray-50 rounded">
             <ul class="space-y-2">
               <li class="text-blue-900 font-bold">Handbook</li>
-              <li>
-                <a href="/background"
-                   class="flex items-center p-2 text-base font-normal text-gray-900 rounded-lg hover:bg-gray-100">
-				          <Icon name="ic:baseline-batch-prediction" width="20" class="text-gray-400" />
-                  <span class="ml-3">Background</span>
-                </a>
-              </li>
-              <li>
-                <a href="/introduction"
-                  class="flex items-center p-2 text-base font-normal text-gray-900 rounded-lg hover:bg-gray-100">
-				          <Icon name="ic:baseline-start" width="20" class="text-gray-400" />
-                  <span class="flex-1 ml-3 whitespace-nowrap">Introduction</span
-                  >
-                </a>
-              </li>
-              <li>
-                <a
-                  href="/preparing-for-placement"
-                  class="flex items-center p-2 text-base font-normal text-gray-900 rounded-lg hover:bg-gray-100"
-                >
-				          <Icon name="ic:baseline-clean-hands" width="20" class="text-gray-400" />              				
-                  <span class="flex-1 ml-3 whitespace-nowrap">Preparation</span>
-                </a>
-              </li>
-              <li>
-                <a href="/on-placement"
-                  class="flex items-center p-2 text-base font-normal text-gray-900 rounded-lg hover:bg-gray-100">
-                  <Icon name="ic:outline-work" width="20" class="text-gray-400" />              				               
-                  <span class="flex-1 ml-3 whitespace-nowrap">Placement</span>
-                </a>
-              </li>
+              <li><Link url="/background" icon="ic:baseline-batch-prediction" label="Background" /></li>
+              <li><Link url="/introduction" icon="ic:baseline-start" label="Introduction"/></li>
+              <li><Link url="/preparing-for-placement" icon="ic:baseline-clean-hands" label="Preparation"/></li>
+              <li><Link url="/on-placement" icon="ic:outline-work" label="Placement"/></li>
+             
               <li class="text-green-900 font-bold">Recruit Guidance</li>
-              <li>
-                <a href="/recruit/student"
-                  class="flex items-center p-2 text-base font-normal text-gray-900 rounded-lg hover:bg-gray-100">
-                  <Icon name="ph:student-fill" width="20" class="text-gray-400" />              				               
-                  <span class="flex-1 ml-3 whitespace-nowrap">Student</span>
-                </a>
-              </li>  
-            
-              <li>
-                <a href="/recruit/academic"
-                  class="flex items-center p-2 text-base font-normal text-gray-900 rounded-lg hover:bg-gray-100">
-                  <Icon name="dashicons:welcome-learn-more" width="20" class="text-gray-400" />              				               
-                  <span class="flex-1 ml-3 whitespace-nowrap">Academic</span>
-                </a>
-              </li>
+              <li><Link url="/recruit/student" icon="ph:student-fill" label="Student"/></li>
+              <li><Link url="/recruit/academic" icon="dashicons:welcome-learn-more" label="Academic"/></li>
             </ul>
           </div>
         </aside>
 
+        <!-- Document -->
         <article class="mx-auto prose prose-a:no-underline prose-h2:text-green-800 prose-h3:text-slate-800">
           <DocHeader frontmatter={frontmatter}/>
           <slot/> 
-          <DocFooter frontmatter={frontmatter} version={GLOBAL.version}/>
+          <DocFooter frontmatter={frontmatter} modified={GLOBAL.modified}/>
         </article>
 
+        <!-- Right Side Bar -->
         <aside class="w-64" aria-label="RightSidebar">
           <div class="overflow-y-auto py-4 px-3 bg-gray-50 rounded">
-            <PageElements frontmatter={frontmatter} headings={headings}/>
+            <DocElements frontmatter={frontmatter} headings={headings}/>
           </div>
         </aside>
       </div>
