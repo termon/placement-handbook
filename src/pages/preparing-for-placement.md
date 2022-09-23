@@ -95,34 +95,23 @@ Overall employers are looking for students with an obvious interest in their cho
 
 ## Placement Offers
 
-### Confirming an Offer
+Typically, an employer will contact students directly with offers, via a telephone call or an email (thus the importance of checking your university email daily). Before accepting an offer, you should inform the Placement Tutor that you have received an offer and that you wish to accept. To do this, all placement offers must be recorded and approved via Recruit.
 
-Typically, an employer will contact students directly with offers, via a telephone call or an email (thus the importance of checking your university email daily). Before accepting an offer, you should inform the Placement Tutor that you have received an offer and that you wish to accept. To do this, all placement offers must be recorded and approved via the [Recruit System](https://recruit.ulster.ac.uk)
-(login using your normal University credentials)
+### Approved Post
 
-1. If the post was advertised on the Handshake, then you MUST:
+If a placement post you are offered was advertised on Handshake and you applied for the post via Handshake then the post will be listed in your applications on Recruit. To record the offer:
 
-    - Login to [Recruit](https://recruit.ulster.ac.uk), navigate to your list of Applications via ```Year Long Placements / Applications``` and click the ```Confirm Offer``` link against the relevant application.
+- Login to [Recruit](https://recruit.ulster.ac.uk), navigate to your list of Applications via ```Year Long Placements / Applications``` and click the ```Confirm Offer``` link against the relevant application.
 
-    - Complete the placement offer form and attach a document containing suitable evidence of the placement offer (screenshot of letter of offer or email etc).
+- Complete the placement offer form and attach a document containing suitable evidence of the placement offer (screenshot of letter of offer or email etc).
 
-    - Submit the offer for review by the placement tutor.
+- Submit the offer for review by the placement tutor.
 
-2. If the post was not advertised on Handshake and is thus an unapproved post, then you MUST:
-
-    - Login to [Recruit](https://recruit.ulster.ac.uk) and log an EXTERNAL APPLICATION under ```Year Long Placements / Applications / External Applications / Log External Application```
-
-    - Complete the application form using a suitable job description provided by the company (see below for details required). You may already have this information if you followed the guidance regarding keeping records of external placement applications. Attach a document to the application containing suitable evidence of the placement offer (screenshot of letter of offer or email etc).
-
-    - Submit the application for Review.
-
-    - Send an EMAIL to the Placement Tutor, asking them to review and approve the post as they are not informed automatically when you log an external application.
-
-Once acceptance of the post is confirmed and approved, the Placement Tutor will mark you as placed, and you will receive an automated email from ‘Recruit’ confirming your placement.  If you do not receive this email, you are NOT considered as placed and you should follow up with the Placement Tutor to have the placement confirmed. At this point you are now finished with the placement preparation process and can concentrate on your studies and prepare for your placement year.
+> **NOTE:** [click here to view recruit student guidance for confirming an approved post](/recruit/student/#approved-post)
 
 ### Unapproved Post
 
-If a placement post you are offered was not advertised on Handshake then you need to provide a job description as part of the external application, to help the Placement Tutor make a decision on the validity/suitability of the post. You should therefore request a job specification from employer that contains the following information:
+If a placement post you are offered was not advertised on Handshake and you applied directly to the company, then you need to log an external application on Recruit. To log this application you will need a job description from the company to help the Placement Tutor make a decision on the validity/suitability of the post. You should therefore request a job specification from employer that contains the following information:
 
     1. Employer name
     2. Address (including telephone number, website)
@@ -138,6 +127,18 @@ If a placement post you are offered was not advertised on Handshake then you nee
 [1] Most placements typically last 12 months with most starting during the summer period at end of year 2. For those students who do not get placed until semester 1 of year 3, then the post may be shorter.  However, posts CANNOT end before May of the placement year to allow the necessary assessments to take place.
 
 [2] Provide as much detail as possible and ensure duties are computing or engineering related.
+
+To record the offer:
+
+- Login to [Recruit](https://recruit.ulster.ac.uk) and log an EXTERNAL APPLICATION under ```Year Long Placements / Applications / External Applications / Log External Application```
+
+- Complete the application form using a suitable job description provided by the company (see below for details required). You may already have this information if you followed the guidance regarding keeping records of external placement applications. Attach a document to the application containing suitable evidence of the placement offer (screenshot of letter of offer or email etc).
+
+- Submit the application for Review.
+
+- **Send an EMAIL to the Placement Tutor**, asking them to review and approve the post as they are not informed automatically when you log an external application.
+
+> **NOTE:** [click here to view recruit student guidance for confirming an unapproved post](/recruit/student/#unapproved-post)
 
 ### Multiple Offers
 

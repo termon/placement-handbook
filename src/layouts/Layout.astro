@@ -37,10 +37,12 @@ const title = frontmatter ? frontmatter.title : Astro.props.title
           <Icon name="logo" width="50"/>
           <h1 class="text-slate-900 ml-4 text-3xl"><a href="/">SCEIS Placement Handbook</a></h1>
         </div>
-        <Badge>
-            <Icon name="carbon:version" width="20" class="mr-2 text-blue-900 font-bold"/> 
-            <span class="text-gray-900">Version&nbsp;<span>{GLOBAL.version}</span></span> 
-        </Badge>        
+        <div class="flex gap-2">
+          <Badge>
+              <Icon name="carbon:version" width="20" class="mr-2 text-blue-900 font-bold"/> 
+              <span class="text-gray-900">Version&nbsp;<span>{GLOBAL.version}</span></span> 
+          </Badge>        
+          </div>
       </div>
 
       <div class="flex">

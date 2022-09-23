@@ -6,6 +6,59 @@ description:
 author: Aiden McCaughey
 ---
 
+Recruit is the University placement management system used to manage student placement activity including:
+
+- Recording placement applications
+- Logging a placement offer and having it approved
+- Applying for exemption from placement
+- Managment of activities whilst on placement
+
+## Login to Recruit
+
+You can login to Recruit via following url <https://recruit.ulster.ac.uk> using your normal university account credentials.
+
+![img](/recruit/student/1-login.png)
+
+## Confirm Placement Offer
+
+Once you have been offered a placement post you need to log the offer on the Recruit System to have it reviewed and approved.
+
+### Approved Post
+
+If you applied for the post via Handshake, then it will be recorded in your list of applications on Recruit.
+
+Navigate to **Year Long Placements**, then **Applications**, then **External Applications**
+
+Then select the application you have been offered and click the **Confirm Offer** link.
+
+![img](/recruit/student/8-handshake-1.png)
+
+Now complete the form below and upload a document containing evidence that you have been offered the post.
+
+![img](/recruit/student/8-handshake-2.png)
+
+### Unapproved Post
+
+Where a post was not advertised on Handshake it must go through an approvals process to have it verified as suitable. To log an application, navigate to **Year Long Placements**, then **Applications**, then **External Applications** as shown below.
+
+![img](/recruit/student/8-external-1.png)
+
+Then select **Log an External Application** as shown below
+
+![img](/recruit/student/8-external-2.png)
+
+Complete the application form shown below. Please provide as much detail as possible. You must also upload a document containing suitable evidence that the post has been offered as a placement (copy of a job offer - letter/email etc).
+
+![img](/recruit/student/8-external-3.png)
+
+### Confirmation Email
+
+Once you have completed one of the above steps and your post has been approved, you will receive a confirmation email from Recruit as shown below.
+
+![img](/recruit/student/8-confirm-email.png)
+
+>⚠️ **NOTE** You will only receive this email when your placement been approved
+
 ## Starting Placement
 
 Over the placement year you are working towards achievement of a Diploma in Professional Practice (DPP/DPP(I)).
@@ -18,10 +71,6 @@ As part of your assessment during the placement year, you will have a number of 
     - [x] maintenance of a placement journal
     - [x] completion of paperwork relating to placement visits
     - [x] submission of a final placement report.
-
-These elements are all managed via the university Recruit system - a tool used to manage placement activity <https://recruit.ulster.ac.uk>.
-
-![img](/recruit/student/1-login.png)
 
 ### Placement Details
 
@@ -79,7 +128,7 @@ New journal entries can be added by clicking the Journal Entry button and then f
 
 You can normally expect to be visited twice during your placement. The first visit will take place around November/December and the second visit around March/April. These dates may vary slightly depending on when your placement started.
 
-> **NOTE** You must regularly check your University email account for communications from the placement team and your academic visitor and respond in a timely manner.
+>⚠️ **NOTE** You must regularly check your University email account for communications from the placement team and your academic visitor and respond in a timely manner.
 
 At a visit, your academic visitor will normally:
 
@@ -136,6 +185,6 @@ Then upload the report (in pdf format). As noted, you should not upload the repo
 
 As per placement visit submissions, once the final report submission has been assessed/feedback provided, it can no longer be uploaded.
 
-> **NOTE** Once report has been assessed the feedback is only visible in Recruit from 1st October.
+>⚠️ **NOTE** Once report has been assessed the feedback is only visible in Recruit from 1st October.
 
 ![img](/recruit/student/7-feedback.png)
