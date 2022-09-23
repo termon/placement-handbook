@@ -27,9 +27,7 @@ Once you have been offered a placement post you need to log the offer on the Rec
 
 If you applied for the post via Handshake, then it will be recorded in your list of applications on Recruit.
 
-Navigate to **Year Long Placements**, then **Applications**, then **External Applications**
-
-Then select the application you have been offered and click the **Confirm Offer** link.
+To log an application, navigate to **Year Long Placements**, then under **Applications** select the application you have been offered and click the **Confirm Offer** link.
 
 ![img](/recruit/student/8-handshake-1.png)
 
@@ -39,7 +37,7 @@ Now complete the form below and upload a document containing evidence that you h
 
 ### Unapproved Post
 
-Where a post was not advertised on Handshake it must go through an approvals process to have it verified as suitable. To log an application, navigate to **Year Long Placements**, then **Applications**, then **External Applications** as shown below.
+Where a post was not advertised on Handshake it **must go through an approvals process** to have it verified as suitable. To log an application, navigate to **Year Long Placements**, then **Applications**, then **External Applications** as shown below.
 
 ![img](/recruit/student/8-external-1.png)
 
