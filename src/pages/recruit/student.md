@@ -8,8 +8,8 @@ author: Aiden McCaughey
 
 Recruit is the University placement management system used to manage student placement activity including:
 
-- Recording placement applications
-- Logging a placement offer and having it approved
+- Logging placement applications made via Handshake or externally
+- Registering a placement offer and having it approved
 - Applying for exemption from placement
 - Managment of activities whilst on placement
 
