@@ -20,7 +20,7 @@ const headingFormat = (depth: number) => depth == 2 ? `text-sm font-bold` : (dep
     <ul class="space-y-2">   
         {headings.map(h => (
             <li class={`${headingFormat(h.depth)}`}>
-                <Link url={`#${h.slug}`} padding="1">
+                <Link url={`#${h.slug}`} padding="pb-1">
                     <span>{h.text}</span>
                 </Link>             
             </li>
