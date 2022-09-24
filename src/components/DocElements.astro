@@ -16,13 +16,15 @@ const { frontmatter, headings} = Astro.props as Props
 const headingFormat = (depth: number) => depth == 2 ? `text-sm font-bold` : `text-sm` 
 ---
 {frontmatter && 
-    <h2 class="text-md mb-3 text-blue-900 font-bold">Quick Links</h2>
+    <h2 class="text-md mb-3 text-blue-900 dark:text-white font-bold">Quick Links</h2>
     <ul class="space-y-2">   
         {headings.map(h => (
-            <li>
-                <a href={`#${h.slug}`} class={`flex ml-${h.depth} ${headingFormat(h.depth)} px-2 pb-1 text-gray-900 rounded-lg hover:bg-gray-200`}>
+            <li class={`ml-${h.depth} ${headingFormat(h.depth)}`}>
+                <Link url={`#${h.slug}`} padding="1">
                     <span>{h.text}</span>
-                </a>
+                </Link>
+   
+                
             </li>
         ))} 
     </ul>
