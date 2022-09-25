@@ -22,23 +22,24 @@ const title = frontmatter ? frontmatter.title : Astro.props.title
   </head>
   <body id="container">
 
-    <div class="dark:bg-black dark:text-white p-3">
+    <div class="dark:bg-black dark:text-white px-3 py-5">
       <!-- top bar -->
       <div class="flex justify-between ml-4 mb-8 ">
-        <div class="flex">
-          <Icon name="logo" width="50" class="text-black dark:text-white dark:bg-black" />
-          <h1 class="text-slate-900 font-bold ml-4 text-3xl dark:text-white dark:bg-black"><a href="/">SCEIS Placement Handbook</a></h1>
+        <!-- Title -->
+        <div class="flex content-center">
+          <Icon name="logo-engineer" width="60" class="text-black dark:text-white dark:bg-black" />
+          <h1 class="text-slate-900 font-bold ml-4 text-2xl md:text-3xl lg:text-4xl dark:text-white dark:bg-black"><a href="/">SCEIS Placement Handbook</a></h1>
         </div>
-        <div class="flex content-center gap-2">
-          <button id="toggleButton" onclick="toggle()" class="text-black bg-gray-200 dark:text-white px-2 dark:bg-gray-600 focus:outline-none focus:ring-1 rounded opacity-80 hover:opacity-100" /> 
-          <Badge>
-              <Icon name="carbon:version" width="20" class="mr-2 text-blue-900 dark:text-white dark:bg-black font-bold"/> 
-              <span class="text-gray-900 dark:text-white dark:bg-black">Version&nbsp;<span>{GLOBAL.version}</span></span> 
-          </Badge>        
-          </div>
+        <!-- Dark mode switch / version -->         
+        <Badge>
+            <!-- <Icon name="carbon:version" width="20" class="mr-2 text-blue-900 dark:text-white dark:bg-black font-bold"/>  -->
+            <button id="toggleButton" onclick="toggle()" class="text-black bg-gray-200 dark:text-white p-2 mr-2 dark:bg-gray-600 focus:outline-none focus:ring-1 rounded opacity-80 hover:opacity-100" /> 
+            <span class="text-gray-900 text-sm lg:text-md dark:text-white dark:bg-black"><span>{GLOBAL.version}</span></span> 
+        </Badge>
       </div>
 
-      <div class="flex">
+      <!-- Page Content -->
+      <div class="flex gap-2">
         <!-- Left Side Bar -->
         <aside class="w-64" aria-label="LeftSidebar">
           <div class="overflow-y-auto py-4 px-3 bg-gray-50 dark:bg-black rounded">
@@ -86,15 +87,15 @@ const title = frontmatter ? frontmatter.title : Astro.props.title
           </div>
         </aside>
 
-        <!-- Document configure prose prose-a:no-underline -->
+        <!-- Document configure prose -->
         <article class="mx-auto prose dark:prose-invert dark:bg-black dark:prose-h2:text-slate-200 dark:prose-h3:text-slate-400 prose-h2:text-blue-900" aria-label="Content">
           <DocHeader frontmatter={frontmatter}/>
           <slot/> 
           <DocFooter frontmatter={frontmatter} modified={GLOBAL.modified}/>
         </article>
 
-        <!-- Right Side Bar -->
-        <aside class="w-64" aria-label="RightSidebar">
+        <!-- Right Side Bar visible on larger screens -->
+        <aside class="w-64 hidden lg:block" aria-label="RightSidebar">
           <div class="overflow-y-auto py-4 px-3 bg-gray-50 dark:bg-black rounded">
             <DocElements frontmatter={frontmatter} headings={headings}/>
           </div>
