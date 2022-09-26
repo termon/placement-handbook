@@ -126,13 +126,13 @@ If a placement post you are offered was not advertised on Handshake and you appl
 
 [1] Most placements typically last 12 months with most starting during the summer period at end of year 2. For those students who do not get placed until semester 1 of year 3, then the post may be shorter.  However, posts CANNOT end before May of the placement year to allow the necessary assessments to take place.
 
-[2] Provide as much detail as possible and ensure duties are computing or engineering related.
+[2] Provide as much detail as possible and ensure duties are computing or engineering related and relevant for a student studying at undergraduate degree level.
 
 To record the offer:
 
 - Login to [Recruit](https://recruit.ulster.ac.uk) and log an EXTERNAL APPLICATION under ```Year Long Placements / Applications / External Applications / Log External Application```
 
-- Complete the application form using a suitable job description provided by the company (see below for details required). You may already have this information if you followed the guidance regarding keeping records of external placement applications. Attach a document to the application containing suitable evidence of the placement offer (screenshot of letter of offer or email etc).
+- Complete the application form using a suitable job description provided by the company (see above for details required). You may already have this information if you followed the guidance regarding keeping records of external placement applications. Attach a document to the application containing suitable evidence of the placement offer (screenshot of letter of offer or email etc).
 
 - Submit the application for Review.
 
