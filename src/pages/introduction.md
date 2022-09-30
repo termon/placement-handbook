@@ -56,7 +56,7 @@ Students who undertake placements recognise the vital role that work experience 
 
 ### Employer Benefits
 
-At a reasonable cost, employers can benefit from an enthusiastic staff member, fresh from two years undergraduate study, who can often be targeted at specific short to medium term projects. The student comes equipped with specific skills (see below) as well as an up-to-date overview of the relevant computing and engineering disciplines and should become fully productive at an early stage.
+At a reasonable cost, employers can benefit from an enthusiastic staff member, fresh from two years undergraduate study, who can often be targeted at specific short to medium term projects. The student comes equipped with specific subject related skills, as well as an up-to-date overview of the relevant computing and engineering disciplines, and should become fully productive at an early stage.
 Many employers are also keen to make (and to be seen to make) a positive contribution towards the provision of a high-quality work force for the future. As a placement organisation, it is also easy to make known to the academic community views and requirements regarding higher education.
 
 Whilst there is not normally a long-term commitment to future recruitment, there is obvious potential, particularly where placements are linked to sponsorship. Sponsorship arrangements vary greatly but can include financial support whilst studying, vacation employment and, possibly, an eventual employment arrangement. Potential employers should note that placement students must return for final year. It is not unusual for companies to gain favourable publicity because of sponsorship arrangements.
