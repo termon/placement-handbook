@@ -119,11 +119,13 @@ The overall practical element of placement is simply marked as ```Pass/Fail``` a
 
 Assessment of these competencies is made at the placement visits. Students should review the feedback following the first visit regarding outstanding competences and what they need to work on for the second visit. Students should ensure they use the journal to record any evidence of meeting those competencies, so that they can talk about what they have achieved at the second visit and in the final report.
 
-### Final Report
+The placement visits are managed via the [Recruit system](/recruit/student#placement-visits).
+
+### Final Report Assessment
 
 As the student approaches the end of the placement, they will be required to submit a Final Placement Report (typically late May/early June), that documents their placement year. This report provides the student with an opportunity to highlight their knowledge of the organisation and team in which they work, training undertaken and duties of the post, and most importantly to reflect on the year and what they have achieved. The placement journal is a crucial tool in completion of the report as it will allow the student to record important information and reflection over the year that will be useful in constructing the report. This report is formally assessed and is used to determine the overall placement grade of ```Fail, Pass, Commendation or Distinction```.
 
-The placement report is submitted via the Recruit system.
+The placement report is submitted via the [Recruit system](/recruit/student#final-report).
 
 ## Placement Issues
 

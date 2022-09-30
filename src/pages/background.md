@@ -6,9 +6,11 @@ description: Intro to placement
 author: Aiden McCaughey
 ---
 
+![img](/logo-placement.png)
+
 ## Scope
 
-The aim of this document is to offer a framework for quality assurance and control in relation to placement-learning. It also aims to enable the School of Computing, Engineering and Intelligent Systems to support the management and operation of placement throughout within the Faculty.
+The aim of this document is to offer a framework for quality assurance and control in relation to placement-learning. It also aims to enable the [School of Computing, Engineering and Intelligent Systems](https://www.ulster.ac.uk/departments/dvc/cebe/school-of-computing-engineering-and-intelligent-systems) to support the management and operation of placement within the Faculty.
 
 ## Handbook Audience
 
