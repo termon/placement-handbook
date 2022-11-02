@@ -58,26 +58,26 @@ When meeting with the student, the academic supervisor will want to:
 
 Verify at the first visit that:
 
-1. the Health and Safety Check List has been completed and deal with any issues noted.
-2. that the student has submitted a signed Learning Agreement
-3. that the student has submitted a signed company indemnity form.
-4. that the student is aware of the Company policy on bullying and harassment (i.e. does the student know what to do if they think they are being bullied or harassed?)
-5. if the student has flagged any disability with the company, that the company has dealt with it in an appropriate manner? Students are not obliged to disclose any disability. Under SENDO legislation employers must make reasonable adjustments to facilitate students with a range of disabilities including physical, visual, hearing, learning, medical and mental. See UU Staff Guidance Booklet.
+1. The Health and Safety Check List has been completed and deal with any issues noted.
+2. That the student has submitted a signed learning agreement.
+3. That the student has submitted a signed company indemnity form.
+4. That the student is aware of the company policy on bullying and harassment (i.e. does the student know what to do if they think they are being bullied or harassed?).
+5. If the student has flagged any disability with the company, that the company has dealt with it in an appropriate manner. Under SENDO legislation employers must make reasonable adjustments to facilitate students with a range of disabilities including physical, visual, hearing, learning, medical and mental. Note that students are not obliged to disclose any disability.
 
 Verify at both visits:
 
-1. Discuss the type of work undertaken to date, training received, systems/tools used
-2. Look for evidence of soft skill enhancement
+1. Discuss the type of work undertaken to date, training received, systems/tools used.
+2. Look for evidence of soft skill enhancement.
 3. Verify that the student has been maintaining their placment journal and where relevant provide some constructive comments.
 4. Look for evidence of achievement of the placement competencies which contribute to the overall placement assessment.
 
 When meeting with the industrial supervisor, the academic supervisor will want to:
 
-- Gain an appreciation of the industrial supervisor view on the students’ strengths and weaknesses and their performance to date
+- Gain an appreciation of the industrial supervisor view on the students’ strengths and weaknesses and their performance to date.
 - Determine if there is any potential for more demanding or varied work. This can be of particular significance where the student feels the work currently being offered varies widely from that advertised via the original job description.
 - Gain an appreciation of the work programme for the rest of the year.
 - At the second visit determine if there will be a requirement for placement students the following year.
-- Develop other Company – University Links
+- Develop other Company – University Links.
 
 The academic supervisor, in collaboration with the industrial Supervisor will then formally assess the students’ progress.
 
@@ -88,7 +88,7 @@ Students are required to maintain a journal during their placement using the Rec
 Failure to maintain a satisfactory journal may therefore impair your performance in these components of your assessment. As this is a record of your work and learning experience, it should include
 
 - Notes and observations on the work you have done. This might include (but is not limited to) any of the following (technical issues, business issues, social, legal & ethical issues, industrial relations, management practices).
-- Reflections on the skills, knowledge, understanding and experience you have acquired
+- Reflections on the skills, knowledge, understanding and experience you have acquired.
 
 You are advised to ensure that details of a technical nature comply with the organisation's policy and practice on confidentiality; company material may only be included if explicit permission has been given.
 
@@ -133,7 +133,7 @@ Whilst on placement, student can encounter various issues that will require cons
 
 ### Role Not as Advertised
 
-Sometimes the actual role given to the student may vary from that advertised in the original job specification. Students need to also realise that a company requires its employees to be flexible (one of the competencies) and carry out duties as required by the company at that time. If the change in duties Students should discuss this with the supervisor in the first instance and request work more aligned with what was originally advertised.
+Sometimes the actual role given to the student may vary from that advertised in the original job specification. Students need to also realise that a company requires its employees to be flexible (one of the competencies) and carry out duties as required by the company at that time. However, if the change in duties is such that the student longer has an opportunity to carry out any of the work originally advertised, then the student should discuss this with the industrial supervisor in the first instance and then with the academic supervisor, to request work more aligned with what was originally advertised.
 
 ### Poor Performance
 
@@ -153,7 +153,7 @@ Where none of these options are available, the student will be provided with ass
 
 ### Bullying / Harassment
 
-The University requires each employer to have a Bullying/harassment policy in place and the student should have been made aware of this policy during their induction with the employer. The student should follow the procedures in this policy in the first instance and additionally inform their academic supervisor of their circumstances. If required, the placement tutor can speak to the company supervisor to ensure that the situation is being addressed and where it is not being addressed the University reserves the right to remove the student from the placement if required.
+The University requires each employer to have a Bullying/Harassment policy in place and the student should have been made aware of this policy during their induction with the employer. The student should follow the procedures in this policy in the first instance and additionally inform their academic supervisor of their circumstances. If required, the placement tutor can speak to the company supervisor to ensure that the situation is being addressed, and where it is not being addressed, the University reserves the right to remove the student from the placement if required.
 
 ### Terminate a Placement
 
