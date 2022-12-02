@@ -8,7 +8,7 @@ author: Aiden McCaughey
 
 ## Responsibilities
 
-On commencement of a placement there are certain repsonsibilites placed on the student, the employer and the overall supervision of the student during the placement.
+On commencement of a placement there are certain responsibilites placed on the student, the employer and the overall supervision of the student during the placement.
 
 ### The Student
 
@@ -68,7 +68,7 @@ Verify at both visits:
 
 1. Discuss the type of work undertaken to date, training received, systems/tools used.
 2. Look for evidence of soft skill enhancement.
-3. Verify that the student has been maintaining their placment journal and where relevant provide some constructive comments.
+3. Verify that the student has been maintaining their placement journal and where relevant provide some constructive comments.
 4. Look for evidence of achievement of the placement competencies which contribute to the overall placement assessment.
 
 When meeting with the industrial supervisor, the academic supervisor will want to:
@@ -115,7 +115,7 @@ Over the placement year the student is working towards achievement of a Diploma 
 
 ### Visit Assessments
 
-The overall practical element of placement is simply marked as ```Pass/Fail``` and you must pass to be eligible for the placement Diploma in Professional Practice award. For a pass to be achieved the student must demonstrate achievment of all placement competencies.
+The overall practical element of placement is simply marked as ```Pass/Fail``` and you must pass to be eligible for the placement Diploma in Professional Practice award. For a pass to be achieved the student must demonstrate achievement of all placement competencies.
 
 Assessment of these competencies is made at the placement visits. Students should review the feedback following the first visit regarding outstanding competences and what they need to work on for the second visit. Students should ensure they use the journal to record any evidence of meeting those competencies, so that they can talk about what they have achieved at the second visit and in the final report.
 
@@ -137,9 +137,9 @@ Sometimes the actual role given to the student may vary from that advertised in 
 
 ### Poor Performance
 
-Where a student does not perform as expected in a placement role, the company may decide to terminate the placement. This is an **exceptional** occurance and would normally only happen when all avenues to address the issues identified have been exhausted.
+Where a student does not perform as expected in a placement role, the company may decide to terminate the placement. This is an **exceptional** occurence and would normally only happen when all avenues to address the issues identified have been exhausted.
 
-Where issues do arise these would normally be discussed at the next available placement visit or where more urgent the industrial supervisor would contact the academic supervisor or placement tutor. Normally issues are related to the competencies outlined above with lack of technical ability being the most difficult to address. In most other cases the course of action required by the student is obvious and relies on the student taking responsibility for the issue(s) highlighed and being willing to take the necessary steps to address the issues.
+Where issues do arise these would normally be discussed at the next available placement visit or where more urgent the industrial supervisor would contact the academic supervisor or placement tutor. Normally issues are related to the competencies outlined above with lack of technical ability being the most difficult to address. In most other cases the course of action required by the student is obvious and relies on the student taking responsibility for the issue(s) highlighted and being willing to take the necessary steps to address the issues.
 
 ### Redundancy
 
@@ -159,10 +159,10 @@ The University requires each employer to have a Bullying/Harassment policy in pl
 
 A student unilaterally terminating a placement before completion of the contract, is an exceptional situation and one that is normally extremely rare.
 
-When a student undertakes a placement they will have normally signed a contract stipulating amongst other things the period of employment. The contract may also have some conditions around termination of the placmement and these need to be honoured.
+When a student undertakes a placement they will have normally signed a contract stipulating amongst other things the period of employment. The contract may also have some conditions around termination of the placement and these need to be honoured.
 
 Where a student is considering leaving a placement, they **must** in the first instance discuss the issues they are having with their industrial supervisor and/or the academic supervisor. Where required the academic supervisor will discuss the issues that may have led to the request to terminate the post with the industrial supervisor and placement tutor and aim to have them resolved.
 
 It is a requirement that a student does not withdraw from a placement, without the permission of the relevant Placement Tutor, who will have discussed the matter and had it approved by the student’s Course Director and where required, the Head of School within which their course resides.
 
-> NOTE: Terminating a placement means that a student will not have successfuly completed their placement year. In this case they will not be awarded the Diploma in Professional Practice DPP/DPP(I) and can at the discretion of the course committee, be required to repeat the year.
+> NOTE: Terminating a placement means that a student will not have successfully completed their placement year. In this case they will not be awarded the Diploma in Professional Practice DPP/DPP(I) and can at the discretion of the course committee, be required to repeat the year.

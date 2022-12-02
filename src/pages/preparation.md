@@ -88,9 +88,9 @@ You should firstly avail of all interview preparation classes offered as part of
 
 1. Research the Company offering the post – e.g. review information on their website, and ensure you are familiar with their main business, their structure, any specific info on the activities carried out at the location where the post is being offered (particularly relevant for larger multinational organisations). Interviewers will want to know that you have a good grasp of who the placement provider is and what they do.
 
-2. Review the Job Specification – the job specification advertised typically will provide some details on the job role and thus the type of work, tools, processes etc that are part of the role. You should therefore ensure that you are as familiar as possible with any specific technologies or skills mentioned. For example, if the role requires someone with good teamworking skills then you should prepare an answer for a question that asks you to provide evidence of your teamworking skills. This might be an example of a group project in university or via some other part-time employment. Where the job specification mentions technical skills e.g., knowledge of Software Testing or experience of Solid Works Design, then you should prepare for questions around these areas.
+2. Review the Job Specification – the job specification advertised typically will provide some details on the job role and thus the type of work, tools, processes etc that are part of the role. You should therefore ensure that you are as familiar as possible with any specific technologies or skills mentioned. For example, if the role requires someone with good team-working skills then you should prepare an answer for a question that asks you to provide evidence of your team-working skills. This might be an example of a group project in university or via some other part-time employment. Where the job specification mentions technical skills e.g., knowledge of Software Testing or experience of Solid Works Design, then you should prepare for questions around these areas.
 
-3. Prepare answers to obvious soft skills questions such as those around communication, problem solving, work ethic, flexibility/adaptability, interpersonal skills and teamworking.
+3. Prepare answers to obvious soft skills questions such as those around communication, problem solving, work ethic, flexibility/adaptability, interpersonal skills and team-working.
 Overall employers are looking for students with an obvious interest in their chosen field (look for ways to demonstrate your inquisitiveness in the subject area) and an interest in working for the placement provider.
 
 ## Placement Offers
@@ -160,13 +160,13 @@ The student should firstly communicate with the placement tutor and explain thei
 
 - If the placement tutor or the employer do not support termination of the existing offer then the student should honour their original acceptance of the post and continue with the placement.
 
->⚠️ **NOTE**: Non-abidance of the guidance above can mean your placement will not be recogisned by the university and thus you will not be awarded your Diploma in Professional Practice
+>⚠️ **NOTE**: Non-abidance of the guidance above can mean your placement will not be recognised by the university and thus you will not be awarded your Diploma in Professional Practice
 
 ## No Placement Offers
 
 Students often wonder `Why am I not securing interviews and ultimately job offers?` The main reasons include:
 
-    - lack of engagement in the placement prepararation process 
+    - lack of engagement in the placement preparation process 
     - failure to make sufficient/regular placement applications
     - poor quality CV
     - poor interview preparation
