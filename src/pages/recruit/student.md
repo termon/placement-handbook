@@ -11,7 +11,7 @@ Recruit is the University placement management system used to manage student pla
 - Logging placement applications made via Handshake or externally
 - Registering a placement offer and having it approved
 - Applying for exemption from placement
-- Managment of activities whilst on placement
+- Management of activities whilst on placement
 
 ## Login to Recruit
 
@@ -133,7 +133,7 @@ At a visit, your academic visitor will normally:
 - Review your placement journal and placement work summary
 - Discuss your work and progress
 - Listen to any issues highlighted and attempt to resolve where possible
-- Discuss your performance with your line manager and any issues highlighed
+- Discuss your performance with your line manager and any issues high-lighed
 - Assess your achievement of the Placement Competencies
 - Give you feedback on your performance and progress
 
@@ -159,7 +159,7 @@ Once the visit has been completed the academic will upload their visit feedback 
 
 ![img](/recruit/student/5-visit-3.png)
 
-When you log in again you can no longer upload the First Visit Submission and instead can click the Visit view botton to review the feedback provided.
+When you log in again you can no longer upload the First Visit Submission and instead can click the visit *View* button to review the feedback provided.
 
 ![img](/recruit/student/5-visit-4.png)
 

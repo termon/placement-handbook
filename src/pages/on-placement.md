@@ -8,7 +8,7 @@ author: Aiden McCaughey
 
 ## Responsibilities
 
-On commencement of a placement there are certain responsibilites placed on the student, the employer and the overall supervision of the student during the placement.
+On commencement of a placement there are certain responsibilities placed on the student, the employer and the overall supervision of the student during the placement.
 
 ### The Student
 
