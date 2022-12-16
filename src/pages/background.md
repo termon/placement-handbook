@@ -43,7 +43,7 @@ The vocabulary of placement learning includes many terms, which are used in diff
 
 **[Recruit](https://recruit.ulster.ac.uk)** [^2] is a separate University system used to manage placement, and is typically used to formally record placement offers, exemption requests, and all on-placement assessment.
 
-**Employability & Careers** [^3] is a department witin the University that provides students with support in developing their employability skills during their time at University. Staff from employability and careers are involved in placement preparation activities during year 2.
+**Employability & Careers** [^3] is a department within the University that provides students with support in developing their employability skills during their time at University. Staff from employability and careers are involved in placement preparation activities during year 2.
 
 ## Staff
 

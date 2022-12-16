@@ -72,6 +72,17 @@ For placements outside the UK/Ireland there will be country specific visa requir
 
 ## Placement Interviews
 
+### Interview Preparation
+
+You should firstly avail of all interview preparation classes offered as part of placement preparation. To prepare for a specific interview you should do the following:
+
+1. Research the Company offering the post – e.g. review information on their website, and ensure you are familiar with their main business, their structure, any specific info on the activities carried out at the location where the post is being offered (particularly relevant for larger multinational organisations). Interviewers will want to know that you have a good grasp of who the placement provider is and what they do.
+
+2. Review the Job Specification – the job specification advertised typically will provide some details on the job role and thus the type of work, tools, processes etc that are part of the role. You should therefore ensure that you are as familiar as possible with any specific technologies or skills mentioned. For example, if the role requires someone with good team-working skills then you should prepare an answer for a question that asks you to provide evidence of your team-working skills. This might be an example of a group project in university or via some other part-time employment. Where the job specification mentions technical skills e.g., knowledge of Software Testing or experience of Solid Works Design, then you should prepare for questions around these areas.
+
+3. Prepare answers for obvious soft skills questions such as those around communication, problem solving, work ethic, flexibility/adaptability, interpersonal skills and team-working.
+Overall employers are looking for students with an obvious interest in their chosen field (look for ways to demonstrate your inquisitiveness in the subject area) and an interest in working for the placement provider.
+
 ### Interview Offer
 
 Employers will typically send interview details to each student shortlisted via email (you should only provide your official University email address in your CV). It is thus important that you check your university email account daily during this period.
@@ -81,17 +92,6 @@ Students must confirm by reply email their attendance at the interview. Only in 
 If for any reason you cannot attend an interview (e.g., you have since been offered and accepted another post), then you MUST notify the employer via email that you cannot attend and provide a reason.
 
 Students who simply decide not to attend an interview or worse don’t even notify the employer of their non-attendance, create an extremely bad impression of the School/University. It is extremely unprofessional and will not be tolerated. In these circumstances a student can be removed from the ‘Handshake’ system and will have to find an external post via their own efforts.
-
-### Interview Preparation
-
-You should firstly avail of all interview preparation classes offered as part of placement preparation. To prepare for a specific interview you should do the following:
-
-1. Research the Company offering the post – e.g. review information on their website, and ensure you are familiar with their main business, their structure, any specific info on the activities carried out at the location where the post is being offered (particularly relevant for larger multinational organisations). Interviewers will want to know that you have a good grasp of who the placement provider is and what they do.
-
-2. Review the Job Specification – the job specification advertised typically will provide some details on the job role and thus the type of work, tools, processes etc that are part of the role. You should therefore ensure that you are as familiar as possible with any specific technologies or skills mentioned. For example, if the role requires someone with good team-working skills then you should prepare an answer for a question that asks you to provide evidence of your team-working skills. This might be an example of a group project in university or via some other part-time employment. Where the job specification mentions technical skills e.g., knowledge of Software Testing or experience of Solid Works Design, then you should prepare for questions around these areas.
-
-3. Prepare answers to obvious soft skills questions such as those around communication, problem solving, work ethic, flexibility/adaptability, interpersonal skills and team-working.
-Overall employers are looking for students with an obvious interest in their chosen field (look for ways to demonstrate your inquisitiveness in the subject area) and an interest in working for the placement provider.
 
 ## Placement Offers
 
