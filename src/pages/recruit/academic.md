@@ -27,7 +27,7 @@ The following items should be discussed with the student.
   - Review the students placement journal before the visit and provide some constructive feedback comments on content/structure/completeness.
   - Ask the student to outline a typical day’s/week’s work and get the student to elaborate on any interesting elements of the work carried out.
   - Discuss the training received software packages used etc.
-  - Look for evidence of development of any of the placement competencies (independence, flexibility, timekeeping, teamwork, interpersonal skills, self-awareness, organisation and planning, health and safety awareness, social and professional awareness, technical expertise) and probe where necessary. This is important as you will need confirm that the student has achieved all the completencies by the completion of the second visit.
+  - Look for evidence of development of any of the placement competencies (independence, flexibility, timekeeping, teamwork, interpersonal skills, self-awareness, organisation and planning, health and safety awareness, social and professional awareness, technical expertise) and probe where necessary. This is important as you will need confirm that the student has achieved all the competencies by the completion of the second visit.
   - Ask students to reflect on the skills are they developing. This is particularly important and they should be asked to record reflective elements in their Placement Journal so that they can refer to this when completing the reflection section of the final report.
 
 ### Discuss with Supervisor

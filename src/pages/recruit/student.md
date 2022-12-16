@@ -133,7 +133,7 @@ At a visit, your academic visitor will normally:
 - Review your placement journal and placement work summary
 - Discuss your work and progress
 - Listen to any issues highlighted and attempt to resolve where possible
-- Discuss your performance with your line manager and any issues high-lighed
+- Discuss your performance with your line manager and any issues highlighted
 - Assess your achievement of the Placement Competencies
 - Give you feedback on your performance and progress
 
