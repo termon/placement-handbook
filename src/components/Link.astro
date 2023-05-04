@@ -5,7 +5,7 @@ export interface Props {
     padding?: string
 }
 
-const { url, padding="p-2" } = Astro.props;
+const { url, padding="p-1" } = Astro.props;
 ---
 
 <a href={url} class={`flex items-center gap-3 ${padding} rounded-lg text-gray-800 dark:text-gray-200 hover:bg-gray-600 hover:text-white`}>
