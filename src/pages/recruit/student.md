@@ -59,18 +59,7 @@ Once you have completed one of the above steps and your post has been approved, 
 
 ## Starting Placement
 
-Over the placement year you are working towards achievement of a Diploma in Professional Practice (DPP/DPP(I)).
-
-As part of your assessment during the placement year, you will have a number of submissions to carry out. These include:
-
-    - [x] completion of placement/student details and safety assessment
-    - [x] maintenance of a placement journal
-    - [x] completion of paperwork relating to placement visits
-    - [x] submission of a final placement report.
-
-### Placement Details
-
-Once placed, when you login to Recruit and select the Year Long Placements menu option you will find details of your current placement and confirmation of any missing placement information that will be required by your placement tutor and academic supervisor during the placement.
+Over the placement year you are working towards achievement of a Diploma in Professional Practice (DPP/DPP(I)). When you login to Recruit and select the Year Long Placements menu option you will find details of your current placement and confirmation of any missing placement information that will be required by your placement tutor and academic supervisor during the placement.
 
 ![img](/recruit/student/2-home.png)
 
@@ -86,15 +75,13 @@ This includes details relating to your placement (employer, role, start end date
 
 ![img](/recruit/student/2-employment.png)
 
-#### Update Details
-
 Select **Edit Placement Details** to update any missing or incorrect placement details and **Industrial Supervisor** to select your industrial supervisor. If they are not listed then you can add a new industrial supervisor. 
 
 ![img](/recruit/student/2-employment-edit.png)
 
 ### Placement Plan
 
-Use this section to provide details on the role you will be undertaking. The job description is copied from the advert and should be updated where necessary. The duties should be discussed with your industrial supervisor and updated to reflect what the main duties of your role will be during the placement. You can update this as role progresses and your duties change.
+Use this section to provide details on the role you will be undertaking. The job description is copied from the advert and should be updated where necessary. The duties should be discussed with your industrial supervisor and updated to reflect what the main duties of your role will be during the placement. You can update this as the placement progresses and your duties change.
 
 ![img](/recruit/student/2-plan.png)
 
@@ -102,10 +89,9 @@ Use this section to provide details on the role you will be undertaking. The job
 
 Your safety whilst on placement is of paramount importance and thus it is essential that you complete this section.
 
-> You need to confirm with your employer that you are covered under their employer liability insurance. In the exceptional case where your employer cannot provide liability insurance you will be provided with an indemnity form from the University that both you and your employer will need to sign and upload to Recruit.
+> You need to confirm with your employer that you are covered under their employer liability insurance. In the exceptional case where you confirm that your employer cannot provide liability insurance, you will be provided with an indemnity form from the University that both you and your employer will need to sign before you upload to Recruit.
 
  In the case where an employer does not provide any H&S induction or training, this should be discussed with the employer and also with the academic placement visitor at the first placement visit.
-
 
 ![img](/recruit/student/2-hs.png)
 
@@ -121,12 +107,13 @@ During the placement the student may be directed to various placement related do
 
 ### Submissions
 
-During your placement year you will be required to upload various submissions. These will include your placement journal, placement visit work summary forms, final placement report etc. 
+As part of your assessment during the placement year, you will have a number of submissions to carry out. These include:
 
-**Note** 
-1. Visit work summary forms can only be uploaded once a visit has been scheduled by your industrial supervisor.
+    - [x] regular maintenance of a placement journal
+    - [x] completion of paperwork relating to placement visits
+    - [x] submission of a final placement report.
 
-2. You should not upload your final report until told to do so by the placement coordinator. Each time you upload a report any previous submission is overwritten. Reports are typically uploaded around end of May in your placement year.
+**Note:** You should not upload your final report until told to do so by the placement coordinator - typically around end of May in your placement year.
 
 ## During Placement
 
