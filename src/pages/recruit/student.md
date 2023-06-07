@@ -201,3 +201,26 @@ As per placement visit submissions, once the final report submission has been as
 >⚠️ **NOTE** Once report has been assessed the feedback is only visible in Recruit from 1st October.
 
 ![img](/recruit/student/7-feedback.png)
+
+## Exemption Request
+
+If you are eligible for exemption from placement you can make an application via Recruit. See placement preparation section on [ exemptions](/preparation#placement-exemption) for more information on exemption categories.
+
+> Note: applications on grounds of sufficient effort are not accepted until summer of year 2 and should not be made until you are instructed that applications are being accepted.
+
+### Exemption Application
+
+To make an application login to [Recruit](https://recruit.ulster.ac.uk) and select **Applications / Apply for Exemption** 
+
+![img](/recruit/student/9-exemption.png)
+
+Complete the application form ensuring you select the placement tutor, exemption category and provide a supporting statement. 
+
+![img](/recruit/student/9-exemption-application.png)
+
+Where necessary attach supporting evidence for your application. 
+
+1. When applying on grounds of extenuating circumstances e.g. health, provide a supporting doctors letter or letter of support from student services. 
+2. When applying on grounds of prior work experience, provide a letter from your employer confirming your job title, duties and period of employment.
+3. When applying on grounds of your foundation degree containing a placement element, provide a copy of your foundation degree certificate.
+
