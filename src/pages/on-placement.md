@@ -38,6 +38,40 @@ On commencement of a placement there are certain responsibilities placed on the 
 - The day-to-day work of the student is monitored by the company Industrial Supervisor who is also required to make themselves available to attend the placement visits and provide the visitor with feedback on the students’ progress.
 - If any problems arise which threaten the successful progress of the placement these should be taken up immediately between the student and the Company Supervisor. If a satisfactory solution cannot be found, the aggrieved party (student or Supervisor) should contact the relevant Academic supervisor as soon as possible. In cases where the issue cannot be resolved then the Academic supervisor can escalate the issue to the Placement Tutor.
 
+## Starting Placement
+
+Once you have started your placement you need to confirm some important data regarding your placement on the Recruit system. Guidance on using Recruit to add data required can be found in the [Recruit Guidance - Starting Placement](/recruit/student#starting-placement) section of the handbook.
+
+This data includes
+
+- student details
+- employment details 
+- placement plan (learning agreement)
+- safety checklist
+
+> It is vitally important that you complete these sections as soon as you start your placement and Recruit will send reminder emails until all sections have been completed. 
+
+### Student Details
+
+This section allows you to update your contact details, including home address and term address (whilst on placement). Please note that whilst we will primarily contact you via your University email, you should provide a personal email address and mobile number to only be used in those scenarios where we need to contact you urgently or where you are not responding to requests sent via your university email.
+
+### Employment Details
+
+This section allows you to update details of your actual placement, including job role, company details (address, tel no, placement email address) and *most importantly the confirmed start/end dates of your placement*.  
+
+### Placement Plan
+
+This section is used to construct a placement learning agreement. Whilst some of this information may have been pre-populated based on the information provided in the placement application, you should discuss with your employer, the work that you will be carrying out during the year and then update this section accordingly. 
+
+### Safety Checklist
+
+This section is of particular importance as it is used to confirm that you have completed any mandatory H&S checks with the company. Not all checks may be required depending on your role. If you have any concerns regarding health and safety you should note these and either inform your placement visitor (when known) or alternatively the placement coordinator.
+
+This section also includes a very important question regarding employer liability insurance. For the vast majority of placements (99%+), you should be covered by your employers standard employee liability insurance (you are after all an employee of the company for the year). You should check this with the company and then confirm that you are covered.
+
+Only in exceptional circumstances would an employer not provide cover and once you are sure that cover is not provided, select the option 'no cover provided'. This will then trigger a process where Recruit will email you and your industrial supervisor, a copy of the University liability policy which you and your employer will need to complete and sign. You then email this document back to the placement administrator who will store the document in Recruit.
+
+
 ## Placement Visits
 
 ### Purpose of a Visit
